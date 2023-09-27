@@ -13,7 +13,7 @@
 
 ### Download generated database
 
->#### * https://drive.google.com/drive/folders/1KsdyFZiExObABxFaAMdH6mfpm_xo6qiv?usp=sharing
+>#### * Send me the email for taking database (I can give you only generated images)
 
 -----------------------------------------------------------------------------------------------------------------------------
 
