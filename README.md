@@ -1,5 +1,4 @@
-# Finger-Vein-Spoof-Detection
-
+# Spoof detection based on score fusion using ensemble networks robust against adversarial attacks of fake finger-vein images
 -----------------------------------------------------------------------------------------------------------------------------
 
 ## Download
