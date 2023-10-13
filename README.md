@@ -14,7 +14,7 @@
 ### Download generated database
 
 >#### * Send me the email for taking database (I can give you only generated images)
-## ismysg104@dgu.ac.kr
+##### email: ismysg104@dgu.ac.kr
 -----------------------------------------------------------------------------------------------------------------------------
 
 ## Implementation
