@@ -12,7 +12,7 @@
 
 ### Download generated database
 
->#### * email: ismysg104@dgu.ac.kr](https://drive.google.com/drive/folders/1KsdyFZiExObABxFaAMdH6mfpm_xo6qiv?usp=drive_link)
+>#### * https://drive.google.com/drive/folders/1KsdyFZiExObABxFaAMdH6mfpm_xo6qiv?usp=drive_link
 -----------------------------------------------------------------------------------------------------------------------------
 
 ## Implementation
