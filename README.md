@@ -12,8 +12,7 @@
 
 ### Download generated database
 
->#### * Send me the email for taking database (I can give you only generated images)
->##### email: ismysg104@dgu.ac.kr
+>#### * email: ismysg104@dgu.ac.kr](https://drive.google.com/drive/folders/1KsdyFZiExObABxFaAMdH6mfpm_xo6qiv?usp=drive_link)
 -----------------------------------------------------------------------------------------------------------------------------
 
 ## Implementation
